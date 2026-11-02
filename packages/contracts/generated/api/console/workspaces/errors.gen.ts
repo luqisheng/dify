@@ -435,15 +435,17 @@ export const get48Errors = { plugin_error: { status: 400, data: zPluginError } }
 
 export const post46Errors = { plugin_error: { status: 400, data: zPluginError } }
 
+export const get49Errors = { plugin_error: { status: 400, data: zPluginError } }
+
 export const post48Errors = { plugin_error: { status: 400, data: zPluginError } }
 
 export const post49Errors = { plugin_error: { status: 400, data: zPluginError } }
 
 export const post50Errors = { plugin_error: { status: 400, data: zPluginError } }
 
-export const get51Errors = { plugin_error: { status: 400, data: zPluginError } }
-
 export const get52Errors = { plugin_error: { status: 400, data: zPluginError } }
+
+export const get53Errors = { plugin_error: { status: 400, data: zPluginError } }
 
 export const post51Errors = { plugin_error: { status: 400, data: zPluginError } }
 
@@ -455,7 +457,7 @@ export const post55Errors = { plugin_error: { status: 400, data: zPluginError } 
 
 export const post56Errors = { plugin_error: { status: 400, data: zPluginError } }
 
-export const get53Errors = { plugin_error: { status: 400, data: zPluginError } }
+export const get54Errors = { plugin_error: { status: 400, data: zPluginError } }
 
 export const post61Errors = {
   filename_missing: { status: 400, data: zFilenameMissingError },
@@ -468,9 +470,9 @@ export const post63Errors = { invalid_request: { status: 400, data: zInvalidRequ
 
 export const post65Errors = { invalid_request: { status: 400, data: zInvalidRequestError } }
 
-export const get94Errors = { invalid_request: { status: 400, data: zInvalidRequestError } }
-
 export const get95Errors = { invalid_request: { status: 400, data: zInvalidRequestError } }
+
+export const get96Errors = { invalid_request: { status: 400, data: zInvalidRequestError } }
 
 export const patch6Errors = { invalid_request: { status: 400, data: zInvalidRequestError } }
 
@@ -488,7 +490,7 @@ export const patch8Errors = { invalid_request: { status: 400, data: zInvalidRequ
 
 export const post68Errors = { invalid_request: { status: 400, data: zInvalidRequestError } }
 
-export const get101Errors = {
+export const get102Errors = {
   current_workspace_archived: { status: 409, data: zCurrentWorkspaceArchivedError },
 }
 
